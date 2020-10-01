@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Movable
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ Movable\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=offset
+comment1.target=void\ left(int)
+comment2.params=offset
+comment2.target=void\ rigth(int)
+comment3.params=offset
+comment3.target=void\ up(int)
+comment4.params=offset
+comment4.target=void\ down(int)
+numComments=5

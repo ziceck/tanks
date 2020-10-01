@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BodyTank
+comment0.text=\r\n\ \r\n\ @author\ (ziceck)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=color
+comment1.target=BodyTank(java.awt.Color)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BodyTank\r\n
+comment2.params=x\ y\ graphics
+comment2.target=void\ paint(int,\ int,\ java.awt.Graphics)
+numComments=3

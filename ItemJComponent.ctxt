@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ItemJComponent
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ItemJComponent\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=color
+comment1.target=ItemJComponent(java.awt.Color)
+comment2.params=x\ y\ graphics
+comment2.target=void\ paint(int,\ int,\ java.awt.Graphics)
+numComments=3
